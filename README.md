@@ -38,7 +38,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 we can test it using `npx cypress open`
 
-![alt text](https://github.com/Gerarca/AngularJS-NodeJS-TypeScript-MongoDB/raw/main/Frontend/docs/main.png?raw=true)
+![alt text](https://github.com/Gerarca/nextJS-Cypress-Test-E2E/blob/main/Docs/cypess%20open.png?raw=true)
 
 click on `component testing` and configure the file to will configure, then, choice a Browser
 
@@ -57,7 +57,7 @@ describe('App.cy.js', () => {
 
 this is going to test the file `src/app/page.js`
 
-![alt text](https://github.com/Gerarca/AngularJS-NodeJS-TypeScript-MongoDB/raw/main/Frontend/docs/main.png?raw=true)
+![alt text](https://github.com/Gerarca/nextJS-Cypress-Test-E2E/blob/main/Docs/cypess%20testing.png?raw=true)
 
 also, we can add some scripts on `package.json` file:
 
