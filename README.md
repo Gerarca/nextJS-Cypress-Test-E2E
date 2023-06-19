@@ -1,4 +1,4 @@
-![alt text](https://github.com/Gerarca/nextJS-Cypress-Test-E2E/blob/main/Docs/next+cypress.png?raw=true)
+![alt text](https://github.com/Gerarca/nextJS-Cypress-Test-E2E/blob/main/Docs/react-next+cypress.png?raw=true)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
